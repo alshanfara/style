@@ -4,5 +4,5 @@ var _0xc52e=["\x62\x6F\x64\x79","\x69\x6E\x73\x65\x72\x74\x42\x65\x66\x6F\x72\x6
 
 
 
-$(`<a id="laith" style="padding: 2px 0px!important;border-radius:1px 1px 1px 1px;font-size: 12px !important; -webkit-transform: matrix(1,0,0,1,0,-115)!important;border: 1px solid white;width:100px;float:right;font-family: 'jazeera',FontAwesome;margin:-65px 2px 2px;transform:matrix(1, 0, 0, 1, 4, 24);" class="label label label-primary " target="_blank" href="https://qamar0.net/">شات قمر فلسطين</a>
+$(`<a id="laith" style="padding: 2px 0px!important;border-radius:1px 1px 1px 1px;font-size: 12px !important; -webkit-transform: matrix(1,0,0,1,0,-133)!important;border: 1px solid white;width:100px;float:right;font-family: 'jazeera',FontAwesome;margin:-65px 2px 2px;transform:matrix(1, 0, 0, 1, 4, 24);" class="label label label-primary " target="_blank" href="https://qamar0.net/">شات قمر فلسطين</a>
 `).insertBefore('div#tlogins .lonline.light.break');
